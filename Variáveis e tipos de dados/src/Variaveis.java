@@ -14,14 +14,20 @@ public class Variaveis{
         long twoLong = 922337202;
 
         float oneFloat = 5.5f;
+        float twoFloat = 35.567f;
 
         double oneDouble = 5.5;
+        double twoDouble = 15.6;
 
         // Caractere
-        String oneString = "Matheus";
+        String oneString = "Matheus Henrique";
+        String twoString = "Davi Jose";
+
         char oneChar = 'm';
+        char twoChar = 'D';
 
         // Booleanas
         boolean oneBoolean = true;
+        boolean twoBoolean = false;
     }
 }
