@@ -10,8 +10,8 @@ public class Variaveis{
         int oneInt = -2147483648;
         int twoInt = 2147483647;
 
-        long oneLong = -922337204;
-        long twoLong = 922337202;
+        long oneLong = -9223372036854775808l;
+        long twoLong = 9223372036854775807l;
 
         float oneFloat = 5.5f;
         float twoFloat = 35.567f;
